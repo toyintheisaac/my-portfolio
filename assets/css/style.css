@@ -1,0 +1,35 @@
+*{
+    padding: 0;
+    margin: 0; 
+    font-family: 'Roboto', sans-serif;
+}
+img{
+    width: 100%;
+}
+body{
+    font-family: 'Roboto', sans-serif;
+    font-size: 14px; 
+}
+.bg-lightgray{
+    background-color: lightgrey;
+}
+.text-lightgray{
+    color: lightgrey;
+}
+header{
+   margin-top: 50px;
+   text-align: center;
+}
+header img{
+    max-width: 150px;
+}
+header h1{
+    color: #4A4E69 !important;
+    font-weight: 400;
+    font-family: 'Open Sans', sans-serif;
+}
+header h3{
+    color: #4A4E69 !important;
+    font-weight: 400;
+    font-family: 'Open Sans', sans-serif;
+}
