@@ -2,6 +2,15 @@
     padding: 0;
     margin: 0; 
     font-family: 'Roboto', sans-serif;
+    color: #fff;
+}
+a{
+    text-decoration: none;
+    color: #2372d9;
+}
+a:hover{
+    text-decoration: none;
+    color: #2372d9;
 }
 img{
     width: 100%;
@@ -9,12 +18,13 @@ img{
 body{
     font-family: 'Roboto', sans-serif;
     font-size: 14px; 
+    background-color: #0e1012;
 }
 .bg-lightgray{
-    background-color: lightgrey;
+    background-color: #171a1c;
 }
 .text-lightgray{
-    color: lightgrey;
+    color: #171a1c;
 }
 header{
    margin-top: 50px;
@@ -24,12 +34,12 @@ header img{
     max-width: 150px;
 }
 header h1{
-    color: #4A4E69 !important;
+    color: #fff !important;
     font-weight: 400;
     font-family: 'Open Sans', sans-serif;
 }
 header h3{
-    color: #4A4E69 !important;
+    color: #fff !important;
     font-weight: 400;
     font-family: 'Open Sans', sans-serif;
 }
